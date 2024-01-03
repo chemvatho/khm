@@ -1,0 +1,148 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.9996371882086166 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Word" 
+        xmin = 0 
+        xmax = 2.9996371882086166 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1662097207368761 
+            text = "" 
+        intervals [2]:
+            xmin = 0.1662097207368761 
+            xmax = 0.2434694843025996 
+            text = "Ich" 
+        intervals [3]:
+            xmin = 0.2434694843025996 
+            xmax = 0.4489102192387281 
+            text = "kann" 
+        intervals [4]:
+            xmin = 0.4489102192387281 
+            xmax = 0.5507526348480909 
+            text = "gar" 
+        intervals [5]:
+            xmin = 0.5507526348480909 
+            xmax = 0.7263430065883716 
+            text = "nicht" 
+        intervals [6]:
+            xmin = 0.7263430065883716 
+            xmax = 1.1214213430040032 
+            text = "glauben" 
+        intervals [7]:
+            xmin = 1.1214213430040032 
+            xmax = 1.2460905069396027 
+            text = "dass" 
+        intervals [8]:
+            xmin = 1.2460905069396027 
+            xmax = 1.542838235180677 
+            text = "sogar" 
+        intervals [9]:
+            xmin = 1.542838235180677 
+            xmax = 1.8343182522695431 
+            text = "Doktor" 
+        intervals [10]:
+            xmin = 1.8343182522695431 
+            xmax = 2.1328218842280204 
+            text = "Bahber" 
+        intervals [11]:
+            xmin = 2.1328218842280204 
+            xmax = 2.280317796489856 
+            text = "so" 
+        intervals [12]:
+            xmin = 2.280317796489856 
+            xmax = 2.482246723991179 
+            text = "eins" 
+        intervals [13]:
+            xmin = 2.482246723991179 
+            xmax = 2.736852763014586 
+            text = "hat" 
+        intervals [14]:
+            xmin = 2.736852763014586 
+            xmax = 2.9996371882086166 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Syllable" 
+        xmin = 0 
+        xmax = 2.9996371882086166 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1662097207368761 
+            text = "" 
+        intervals [2]:
+            xmin = 0.1662097207368761 
+            xmax = 0.2434694843025996 
+            text = "ich" 
+        intervals [3]:
+            xmin = 0.2434694843025996 
+            xmax = 0.4489102192387281 
+            text = "kann" 
+        intervals [4]:
+            xmin = 0.4489102192387281 
+            xmax = 0.5507526348480909 
+            text = "gar" 
+        intervals [5]:
+            xmin = 0.5507526348480909 
+            xmax = 0.7263430065883716 
+            text = "nicht" 
+        intervals [6]:
+            xmin = 0.7263430065883716 
+            xmax = 0.9762077057566879 
+            text = "glau" 
+        intervals [7]:
+            xmin = 0.9762077057566879 
+            xmax = 1.1214213430040032 
+            text = "ben" 
+        intervals [8]:
+            xmin = 1.1214213430040032 
+            xmax = 1.2460905069396027 
+            text = "dass" 
+        intervals [9]:
+            xmin = 1.2460905069396027 
+            xmax = 1.3489892281400053 
+            text = "so" 
+        intervals [10]:
+            xmin = 1.3489892281400053 
+            xmax = 1.542838235180677 
+            text = "gar" 
+        intervals [11]:
+            xmin = 1.542838235180677 
+            xmax = 1.677625570241088 
+            text = "dok" 
+        intervals [12]:
+            xmin = 1.677625570241088 
+            xmax = 1.8343182522695431 
+            text = "tor" 
+        intervals [13]:
+            xmin = 1.8343182522695431 
+            xmax = 1.9989043822951313 
+            text = "bah" 
+        intervals [14]:
+            xmin = 1.9989043822951313 
+            xmax = 2.1328218842280204 
+            text = "ber" 
+        intervals [15]:
+            xmin = 2.1328218842280204 
+            xmax = 2.280317796489856 
+            text = "so" 
+        intervals [16]:
+            xmin = 2.280317796489856 
+            xmax = 2.482246723991179 
+            text = "eins" 
+        intervals [17]:
+            xmin = 2.482246723991179 
+            xmax = 2.736852763014586 
+            text = "hat" 
+        intervals [18]:
+            xmin = 2.736852763014586 
+            xmax = 2.9996371882086166 
+            text = "" 
