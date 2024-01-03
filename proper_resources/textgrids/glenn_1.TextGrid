@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.5949659863945578 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Word" 
+        xmin = 0 
+        xmax = 1.5949659863945578 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2924279235503725 
+            text = "" 
+        intervals [2]:
+            xmin = 0.2924279235503725 
+            xmax = 0.3758445832139212 
+            text = "can" 
+        intervals [3]:
+            xmin = 0.3758445832139212 
+            xmax = 0.44170659332313467 
+            text = "I" 
+        intervals [4]:
+            xmin = 0.44170659332313467 
+            xmax = 0.6194111725687159 
+            text = "ask" 
+        intervals [5]:
+            xmin = 0.6194111725687159 
+            xmax = 0.7359282101118836 
+            text = "you (a)" 
+        intervals [6]:
+            xmin = 0.7359282101118836 
+            xmax = 1.169117601063414 
+            text = "question" 
+        intervals [7]:
+            xmin = 1.169117601063414 
+            xmax = 1.5949659863945578 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Syllable" 
+        xmin = 0 
+        xmax = 1.5949659863945578 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2924279235503725 
+            text = "" 
+        intervals [2]:
+            xmin = 0.2924279235503725 
+            xmax = 0.3758445832139212 
+            text = "can" 
+        intervals [3]:
+            xmin = 0.3758445832139212 
+            xmax = 0.44170659332313467 
+            text = "I" 
+        intervals [4]:
+            xmin = 0.44170659332313467 
+            xmax = 0.6194111725687159 
+            text = "ask" 
+        intervals [5]:
+            xmin = 0.6194111725687159 
+            xmax = 0.7359282101118836 
+            text = "you a" 
+        intervals [6]:
+            xmin = 0.7359282101118836 
+            xmax = 0.978501911422803 
+            text = "ques-" 
+        intervals [7]:
+            xmin = 0.978501911422803 
+            xmax = 1.169117601063414 
+            text = "tion" 
+        intervals [8]:
+            xmin = 1.169117601063414 
+            xmax = 1.5949659863945578 
+            text = "" 
