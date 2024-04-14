@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.3950113378684805 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Word" 
+        xmin = 0 
+        xmax = 2.3950113378684805 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40733718710240935 
+            text = "   " 
+        intervals [2]:
+            xmin = 0.40733718710240935 
+            xmax = 0.8672132949009596 
+            text = " ខ្ញុំ" 
+        intervals [3]:
+            xmin = 0.8672132949009596 
+            xmax = 1.0679219351689708 
+            text = "សុំ" 
+        intervals [4]:
+            xmin = 1.0679219351689708 
+            xmax = 1.2278146323068337 
+            text = "សួរ" 
+        intervals [5]:
+            xmin = 1.2278146323068337 
+            xmax = 1.4186383239900835 
+            text = "មួយ" 
+        intervals [6]:
+            xmin = 1.4186383239900835 
+            xmax = 1.671461397560581 
+            text = "មើល" 
+        intervals [7]:
+            xmin = 1.671461397560581 
+            xmax = 1.8551674756376755 
+            text = "បង" 
+        intervals [8]:
+            xmin = 1.8551674756376755 
+            xmax = 2.1279753361961373 
+            text = "ប្អូន" 
+        intervals [9]:
+            xmin = 2.1279753361961373 
+            xmax = 2.3950113378684805 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Syllable" 
+        xmin = 0 
+        xmax = 2.3950113378684805 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40733718710240935 
+            text = "" 
+        intervals [2]:
+            xmin = 0.40733718710240935 
+            xmax = 0.8672132949009596 
+            text = "khɲum" 
+        intervals [3]:
+            xmin = 0.8672132949009596 
+            xmax = 1.0679219351689708 
+            text = "som" 
+        intervals [4]:
+            xmin = 1.0679219351689708 
+            xmax = 1.2278146323068337 
+            text = "suɜ" 
+        intervals [5]:
+            xmin = 1.2278146323068337 
+            xmax = 1.4186383239900835 
+            text = "muɜj" 
+        intervals [6]:
+            xmin = 1.4186383239900835 
+            xmax = 1.671461397560581 
+            text = "mɘːl" 
+        intervals [7]:
+            xmin = 1.671461397560581 
+            xmax = 1.8551674756376755 
+            text = "bɑŋ" 
+        intervals [8]:
+            xmin = 1.8551674756376755 
+            xmax = 2.1279753361961373 
+            text = "phʔon" 
+        intervals [9]:
+            xmin = 2.1279753361961373 
+            xmax = 2.3950113378684805 
+            text = "" 
